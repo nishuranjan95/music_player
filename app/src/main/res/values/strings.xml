@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Music</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="artistPage">This app is made by Nishu Ranjan as part of project.</string>
+    <string name="all_songs">All Songs</string>
+    <string name="favourites">Favorites</string>
+    <string name="about_us">About us</string>
+    <string name="settings">settings</string>
+    <string name="open_drawer">open drawer</string>
+    <string name="close_drawer">close drawer</string>
+    <string name="songs_list">songs list</string>
+    <string name="artist_name">artist name</string>
+    <string name="app_version_1_0">App Version 1.0</string>
+    <string name="hello_blank_fragment">hello</string>
+    <string name="artistname">artistName</string>
+    <string name="songname">songName</string>
+    <string name="starttime">startTime</string>
+    <string name="endtime">endTime</string>
+    <string name="_00_00">00:00</string>
+</resources>
